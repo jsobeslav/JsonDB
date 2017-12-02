@@ -1,1 +1,1 @@
-{"string":"test","integer":1,"array":["one","two","three"],"assocArray":{"one":"foo","two":"bar","three":"baz"},"nested":{"structure":{"test":"foo"},"anotherStructure":{"rewriteWithArray":"bar"}}}
+{"string":"test","integer":1,"boolean":{"true":true,"false":false,"null":null},"array":["one","two","three"],"associativeArray":{"one":"foo","two":"bar","three":"baz"},"nested":{"structure":{"test":"foo"},"anotherStructure":{"arrayValue":"bar"}},"structure":{"nodeone":{"nodetwo":[],"nodethree":"string","nodefour":{"property":"value"}},"nodefive":1}}

@@ -1,0 +1,1 @@
+{"string":"test","integer":1,"array":["one","two","three"],"assocArray":{"one":"foo","two":"bar","three":"baz"},"nested":{"structure":{"test":"foo"},"anotherStructure":{"rewriteWithArray":"bar"}}}

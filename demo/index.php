@@ -9,7 +9,7 @@ function dump($string) {
 
 //INIT
 include '../JsonDB.php';
-$db = new JsonDB();
+$db = new JsonDB("example");
 
 // REMOVE ALL CONTENTS
 $db->purge(); 

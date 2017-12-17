@@ -1,11 +1,11 @@
-# jsondb
+# JsonDB
 
-A PHP class which utilizes local JSON file as simple database. Fast and simple; useful for creating and reading logs quickly.
+A PHP class which utilizes local JSON file as simple database. Fast and simple; is useful for creating and reading logs quickly, but lacks any kind of security.
 
 ## Usage
 ```php
 //INIT
-include 'jsondb.php';
+include 'JsonDB.php';
 $db = new JsonDB();
 
 // REMOVE ALL CONTENTS

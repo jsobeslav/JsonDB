@@ -8,7 +8,7 @@ function dump($string) {
 }
 
 //INIT
-include 'jsondb.php';
+include '../JsonDB.php';
 $db = new JsonDB();
 
 // REMOVE ALL CONTENTS

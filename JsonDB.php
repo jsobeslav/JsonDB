@@ -8,7 +8,6 @@ class JsonDB {
 
     // LOW LEVEL FUNCTIONS 
     // open or close the stream
-
     function __construct($filename = "default", $filepath = "/db/") {
         // create database file if neccessary
 
